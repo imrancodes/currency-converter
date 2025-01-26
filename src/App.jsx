@@ -25,6 +25,7 @@ function App() {
   }
 
   return (
+    
     <div className="w-full h-screen bg-amber-600 px-5">
       <div className="bg-white rounded-md max-w-fit text-center p-8 absolute top-[50%] left-[50%] transform -translate-[50%]">
         <h1 className="text-3xl font-semibold mb-6">Currency Converter</h1>
